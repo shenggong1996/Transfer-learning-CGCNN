@@ -7,7 +7,7 @@ is very small (typically less than 500 data). This framework is based on Crystal
 
 
 [1]  P. Gorai, D. Gao, B. Ortiz, S. Miller, S. Barnett, T. Ma-son, Q. Lv, V. Stevanovi ́c, and E. S. Toberer, 
-TEDesign-Lab: A virtual laboratory for thermoelectric material de-sign, Comp. Mater. Sci. 112, 368 (2016).
+TEDesignLab: A virtual laboratory for thermoelectric material de-sign, Comp. Mater. Sci. 112, 368 (2016).
 
-[2]  T. Xie and J. C. Grossman, Crystal graph convolutionalneural networks for an accurate and interpretable predic-tion of material properties, 
+[2]  T. Xie and J. C. Grossman, Crystal graph convolutionalneural networks for an accurate and interpretable prediction of material properties, 
 Physical Review Letters 120,145301 (2018).
