@@ -10,6 +10,7 @@ TEDesignLab: A virtual laboratory for thermoelectric material design, Comp. Mate
 [3]  Taishan Zhu∗, Sheng Gong∗,Tian Xie, Prashun Gorai,and Jeffrey C. Grossman, Charting Lattice Thermal Conductivity of Inorganic Crystals 
 
 Usage:
+
 For training: python transfer_learning_kappa.py --train 1 source.pth.tar sample
 
 Here sample is the dataset file containing the training data with the format for standard CGCNN training and source.pth.tar is the source model for transfer learning. Here the example source model (source.pth.tar) is learnt from the calcluated thermal conductivities. 
