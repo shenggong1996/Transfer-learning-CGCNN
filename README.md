@@ -22,3 +22,6 @@ Here sample is the dataset file containing the training data with the format for
 For test: python transfer_learning_kappa.py --train 0 source.pth.tar sample
 
 Here sample is the dataset file containing the test data with the format for standard CGCNN prediction and source.pth.tar is the source model for transfer learning. Please make sure that the 'last_layer.sav' file is in the local directory.
+
+
+High-throughput data is available at: https://github.com/taishanG2e/ML_kappa
