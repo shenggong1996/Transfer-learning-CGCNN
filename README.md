@@ -7,7 +7,7 @@ TEDesignLab: A virtual laboratory for thermoelectric material design, Comp. Mate
 
 [2]  T. Xie and J. C. Grossman, Crystal graph convolutionalneural networks for an accurate and interpretable prediction of material properties, Physical Review Letters 120,145301 (2018).
 
-[3]  Taishan Zhu∗, Sheng Gong∗,Tian Xie, Prashun Gorai,and Jeffrey C. Grossman, Charting Lattice Thermal Conductivity of Inorganic Crystals 
+[3]  Taishan Zhu∗, Sheng Gong∗,Tian Xie, Prashun Gorai,and Jeffrey C. Grossman, Charting Lattice Thermal Conductivity of Inorganic Crystals  Energy Environ. Sci., 2021,14, 3559-3566
 
 Before running:
 
